@@ -30,7 +30,7 @@ class App extends Component {
             <li>Hit the gym</li>
             <li class="checked">Pay bills</li>
             <li>Meet George</li>
-            <li>Buy eggs</li>
+            <li>Buy food</li>
             <li>Read a book</li>
             <li>Organize office</li>
           </ul>
